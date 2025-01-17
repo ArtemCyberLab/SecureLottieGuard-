@@ -1,0 +1,3 @@
+SecureLottieGuard is a project I created as part of a TryHackMe challenge. It focuses on analyzing a supply chain attack where attackers compromised the @lottiefiles/lottie-player library. By using a stolen developer token, they injected malicious code designed to steal cryptocurrency through fake wallet connection prompts.
+
+In this project, I developed a tool to compare original and modified versions of files, detect suspicious connections and function calls, and analyze how attackers leveraged these changes for their exploit. This was not only a valuable hands-on exercise but also a great way to better understand supply chain attacks and how to protect projects against them.
